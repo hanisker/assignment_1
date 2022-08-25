@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from tkinter import *
 import tkinter.messagebox as tkMessageBox
 import sqlite3
@@ -250,16 +244,3 @@ def password_check(passwd):
 # ========================================INITIALIZATION===================================
 if __name__ == '__main__':
     root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
